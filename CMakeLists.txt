@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(16_10_2026 main.cpp
         Overcoat.cpp
-        Overcoat.h)
+        Overcoat.h
+        Shop.cpp
+        Shop.h)
